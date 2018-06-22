@@ -10,7 +10,7 @@
 
 ## 目录
 
-1. Hello,world!
+1. [Hello,world!](https://github.com/wuwayne/The-Flask-Mega-Tutorial-in-CHS/blob/master/doc/Hello%2C%20World!.md)
 2. 模板
 3. Web表单
 4. 数据库

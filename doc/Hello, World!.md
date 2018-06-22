@@ -6,13 +6,13 @@
 
 	pip install Flask
 
-搭建虚拟环境推荐使用(`pipenv`)[https://docs.pipenv.org]
+搭建虚拟环境推荐使用[`pipenv`](https://docs.pipenv.org)
 
 其余略
 
 ### 一个"Hello, World" Flask应用
 
-(Flask官网)[http://flask.pocoo.org] 用了一个只有5行的简单应用例子来欢迎您的到来。所以在这里就不重复了，我将介绍一个稍微详尽的例子，这个例子基础结构比较好有利于编写更加复杂应用。
+[Flask官网](http://flask.pocoo.org)用了一个只有5行的简单应用例子来欢迎您的到来。所以在这里就不重复了，我将介绍一个稍微详尽的例子，这个例子基础结构比较好有利于编写更加复杂应用。
 
 这个应用存在于一个包里，在python中，如果一个目录中包含一个`__init__.py`文件，那么这个目录就被认为是一个个包。当你导入一个包时，`__init__.py`文件会自动运行并且定义出这个包对外公开的变量或函数。
 
@@ -90,7 +90,7 @@ $ flask run
 
 	http://localhost:5000/index
 
-!()[https://blog.miguelgrinberg.com/static/images/mega-tutorial/ch01-hello-world.png] 
+![](https://blog.miguelgrinberg.com/static/images/mega-tutorial/ch01-hello-world.png)
 
 因为装饰器给2个不同的地址绑定了相同的视图函数，所以返回值是一样的。
 

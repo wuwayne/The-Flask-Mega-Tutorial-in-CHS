@@ -4,14 +4,14 @@
 
 本翻译仅为了自己在学习Flask的时候加强记忆和理解，不免存在纰漏请见谅。如帮助到了任何人则不胜荣幸。
 
-还未翻译完成。
+不是严格按照原文一字一句翻译，存在删除啰嗦部分，增加个人心得部分。还未翻译完成。
 
 如有版权问题请联系：wulove5@gmail.com 删除。
 
 ## 目录
 
 1. [Hello,world!](https://github.com/wuwayne/The-Flask-Mega-Tutorial-in-CHS/blob/master/doc/Hello%2C%20World!.md)
-2. 模板
+2. [模板](https://github.com/wuwayne/The-Flask-Mega-Tutorial-in-CHS/blob/master/doc/%E6%A8%A1%E6%9D%BF.md)
 3. Web表单
 4. 数据库
 5. 用户登录

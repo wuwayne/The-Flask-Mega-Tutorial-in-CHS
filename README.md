@@ -12,7 +12,7 @@
 
 1. [Hello,world!](https://github.com/wuwayne/The-Flask-Mega-Tutorial-in-CHS/blob/master/doc/Hello%2C%20World!.md)
 2. [模板](https://github.com/wuwayne/The-Flask-Mega-Tutorial-in-CHS/blob/master/doc/%E6%A8%A1%E6%9D%BF.md)
-3. Web表单
+3. [Web表单](https://github.com/wuwayne/The-Flask-Mega-Tutorial-in-CHS/blob/master/doc/web%E8%A1%A8%E5%8D%95.md)
 4. 数据库
 5. 用户登录
 6. 个人主页和头像

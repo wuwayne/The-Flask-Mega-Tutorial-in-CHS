@@ -17,7 +17,7 @@
 5. [用户登录](https://github.com/wuwayne/The-Flask-Mega-Tutorial-in-CHS/blob/master/doc/%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95.md)
 6. [个人主页和头像](https://github.com/wuwayne/The-Flask-Mega-Tutorial-in-CHS/blob/master/doc/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5%E5%92%8C%E5%A4%B4%E5%83%8F.md)
 7. 异常处理
-8. 关注者
+8. 关注系统
 9. 分页
 10. 电子邮件系统
 11. 美化
